@@ -1,0 +1,108 @@
+{ "frames": [
+   {
+    "filename": "font01 0.png",
+    "frame": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 1.png",
+    "frame": { "x": 324, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 2.png",
+    "frame": { "x": 648, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 3.png",
+    "frame": { "x": 972, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 4.png",
+    "frame": { "x": 1296, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 5.png",
+    "frame": { "x": 1620, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 6.png",
+    "frame": { "x": 1944, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 7.png",
+    "frame": { "x": 2268, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 8.png",
+    "frame": { "x": 2592, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 9.png",
+    "frame": { "x": 2916, "y": 0, "w": 324, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 324, "h": 66 },
+    "sourceSize": { "w": 324, "h": 66 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-x64",
+  "image": "fontattack01-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 3240, "h": 66 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

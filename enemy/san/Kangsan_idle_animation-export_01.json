@@ -1,0 +1,153 @@
+{ "frames": [
+   {
+    "filename": "Kangsan_idle_animation-export_01 0.png",
+    "frame": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 1.png",
+    "frame": { "x": 330, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 2.png",
+    "frame": { "x": 660, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 3.png",
+    "frame": { "x": 990, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 4.png",
+    "frame": { "x": 1320, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 5.png",
+    "frame": { "x": 1650, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 6.png",
+    "frame": { "x": 1980, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 7.png",
+    "frame": { "x": 2310, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 8.png",
+    "frame": { "x": 2640, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 9.png",
+    "frame": { "x": 2970, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 10.png",
+    "frame": { "x": 3300, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 11.png",
+    "frame": { "x": 3630, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 12.png",
+    "frame": { "x": 3960, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 13.png",
+    "frame": { "x": 4290, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Kangsan_idle_animation-export_01 14.png",
+    "frame": { "x": 4620, "y": 0, "w": 330, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 330, "h": 100 },
+    "sourceSize": { "w": 330, "h": 100 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-x64",
+  "image": "Kangsan_idle_animation-export_01-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 4950, "h": 100 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

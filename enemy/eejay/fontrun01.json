@@ -1,0 +1,72 @@
+{ "frames": [
+   {
+    "filename": "font01 0.png",
+    "frame": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 1.png",
+    "frame": { "x": 57, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 2.png",
+    "frame": { "x": 114, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 3.png",
+    "frame": { "x": 171, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 4.png",
+    "frame": { "x": 228, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "font01 5.png",
+    "frame": { "x": 285, "y": 0, "w": 57, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 54 },
+    "sourceSize": { "w": 57, "h": 54 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-x64",
+  "image": "fontrun01-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 342, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{ "frames": [
+   {
+    "filename": "axe bandit run_01 0.png",
+    "frame": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 1.png",
+    "frame": { "x": 15, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 2.png",
+    "frame": { "x": 30, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 3.png",
+    "frame": { "x": 45, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 4.png",
+    "frame": { "x": 60, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 5.png",
+    "frame": { "x": 75, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 6.png",
+    "frame": { "x": 90, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "axe bandit run_01 7.png",
+    "frame": { "x": 105, "y": 0, "w": 15, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 25 },
+    "sourceSize": { "w": 15, "h": 25 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-x64",
+  "image": "axe bandit run_01-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 120, "h": 25 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

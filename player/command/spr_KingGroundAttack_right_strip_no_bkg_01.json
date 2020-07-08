@@ -1,0 +1,153 @@
+{ "frames": [
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 0.png",
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 1.png",
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 2.png",
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 3.png",
+    "frame": { "x": 60, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 4.png",
+    "frame": { "x": 80, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 5.png",
+    "frame": { "x": 100, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 6.png",
+    "frame": { "x": 120, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 7.png",
+    "frame": { "x": 140, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 8.png",
+    "frame": { "x": 160, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 9.png",
+    "frame": { "x": 180, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 10.png",
+    "frame": { "x": 200, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 11.png",
+    "frame": { "x": 220, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 12.png",
+    "frame": { "x": 240, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 13.png",
+    "frame": { "x": 260, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   },
+   {
+    "filename": "spr_KingGroundAttack_right_strip_no_bkg_01 14.png",
+    "frame": { "x": 280, "y": 0, "w": 20, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 57 },
+    "sourceSize": { "w": 20, "h": 57 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.21-x64",
+  "image": "spr_KingGroundAttack_right_strip_no_bkg_01-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 300, "h": 57 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
